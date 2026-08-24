@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gamingyard7016/leet-code-questions/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gamingyard7016/leet-code-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/gamingyard7016/leet-code-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/gamingyard7016/leet-code-questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/gamingyard7016/leet-code-questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gamingyard7016/leet-code-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gamingyard7016/leet-code-questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/gamingyard7016/leet-code-questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gamingyard7016/leet-code-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/gamingyard7016/leet-code-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Newton's Method
@@ -67,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gamingyard7016/leet-code-questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
