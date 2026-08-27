@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/gamingyard7016/leet-code-questions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/gamingyard7016/leet-code-questions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gamingyard7016/leet-code-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gamingyard7016/leet-code-questions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/gamingyard7016/leet-code-questions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
