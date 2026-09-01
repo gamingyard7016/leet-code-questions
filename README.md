@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/gamingyard7016/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Matrix
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/gamingyard7016/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/gamingyard7016/leet-code-questions/tree/master/0443-string-compression) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gamingyard7016/leet-code-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
