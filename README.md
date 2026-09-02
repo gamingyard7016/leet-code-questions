@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gamingyard7016/leet-code-questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gamingyard7016/leet-code-questions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/gamingyard7016/leet-code-questions/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gamingyard7016/leet-code-questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/gamingyard7016/leet-code-questions/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
