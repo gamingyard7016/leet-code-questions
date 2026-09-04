@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
 | [1470-shuffle-the-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/gamingyard7016/leet-code-questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gamingyard7016/leet-code-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/gamingyard7016/leet-code-questions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
