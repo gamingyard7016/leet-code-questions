@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/gamingyard7016/leet-code-questions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/gamingyard7016/leet-code-questions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gamingyard7016/leet-code-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gamingyard7016/leet-code-questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gamingyard7016/leet-code-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gamingyard7016/leet-code-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gamingyard7016/leet-code-questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
