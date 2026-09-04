@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gamingyard7016/leet-code-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gamingyard7016/leet-code-questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/gamingyard7016/leet-code-questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/gamingyard7016/leet-code-questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
