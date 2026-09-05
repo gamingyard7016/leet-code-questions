@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/gamingyard7016/leet-code-questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/gamingyard7016/leet-code-questions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/gamingyard7016/leet-code-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gamingyard7016/leet-code-questions/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/gamingyard7016/leet-code-questions/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Timsort
