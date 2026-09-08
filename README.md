@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gamingyard7016/leet-code-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/gamingyard7016/leet-code-questions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/gamingyard7016/leet-code-questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gamingyard7016/leet-code-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/gamingyard7016/leet-code-questions/tree/master/0443-string-compression) |
