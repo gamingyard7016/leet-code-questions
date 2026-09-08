@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gamingyard7016/leet-code-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/gamingyard7016/leet-code-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0189-rotate-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
 ## Queue
