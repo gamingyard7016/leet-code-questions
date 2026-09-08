@@ -5,8 +5,7 @@ public:
         int off = 0;
         int uniq = 1;
         int cm =1;
-        vector<int>ans;
-        while(cm<n){
+        while(cm<n){  //TC O(n) SC O(1)
             if(nums[cm]==nums[cm-1]){
                 cm++;
                 continue;
