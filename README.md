@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gamingyard7016/leet-code-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/gamingyard7016/leet-code-questions/tree/master/1672-richest-customer-wealth) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/gamingyard7016/leet-code-questions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [3467-transform-array-by-parity](https://github.com/gamingyard7016/leet-code-questions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
