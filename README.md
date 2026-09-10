@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gamingyard7016/leet-code-questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gamingyard7016/leet-code-questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/gamingyard7016/leet-code-questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/gamingyard7016/leet-code-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gamingyard7016/leet-code-questions/tree/master/0342-power-of-four) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/gamingyard7016/leet-code-questions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gamingyard7016/leet-code-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gamingyard7016/leet-code-questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gamingyard7016/leet-code-questions/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gamingyard7016/leet-code-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
