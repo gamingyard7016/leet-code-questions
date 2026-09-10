@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int reverse(long long x) {
-        long long rev =0;
+    int reverse(int x) {
+        int rev =0;
         while(x!=0){
             int digit = x % 10;
             x /= 10;
