@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/gamingyard7016/leet-code-questions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gamingyard7016/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/gamingyard7016/leet-code-questions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/gamingyard7016/leet-code-questions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gamingyard7016/leet-code-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gamingyard7016/leet-code-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/gamingyard7016/leet-code-questions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/gamingyard7016/leet-code-questions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/gamingyard7016/leet-code-questions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
 ## Queue
 |  |
