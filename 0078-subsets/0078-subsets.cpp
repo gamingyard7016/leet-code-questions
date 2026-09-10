@@ -1,19 +1,18 @@
 class Solution {
 public:
-    void power(int idx, vector<int> ans, vector<int>& arr,vector<vector<int>>&finalans){
-       if(idx == arr.size()){
-        finalans.push_back(ans);
-        return;
-       }
-       power(idx+1,ans,arr,finalans); //spik
-        ans.push_back(arr[idx]);
-        power(idx+1,ans,arr,finalans); //pick
-        
+    void set(int i, vector<int>ans,vector<int>& arr,vector<vector<int>>&p){
+        if(i == arr.size()){
+            p.push_back(ans);
+            return;
+        }
+        set(i+1,ans,arr,p);
+        ans.push_back(arr[i]);
+        set(i+1,ans,arr,p);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>finalans;
         vector<int>ans;
-        power(0,ans,nums,finalans);
-        return finalans;
+        vector<vector<int>>p;
+        set(0,ans,nums,p);
+        return p;
     }
 };
