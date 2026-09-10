@@ -1,13 +1,13 @@
 class Solution {
 public:
-    void set(int i, vector<int>ans,vector<int>& arr,vector<vector<int>>&p){
-        if(i == arr.size()){
+    void set(int i, vector<int> ans, vector<int>& nums, vector<vector<int>>& p){
+        if(i == nums.size()){
             p.push_back(ans);
             return;
         }
-        set(i+1,ans,arr,p);
-        ans.push_back(arr[i]);
-        set(i+1,ans,arr,p);
+        set(i+1,ans,nums,p);
+        ans.push_back(nums[i]),
+        set(i+1,ans,nums,p);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<int>ans;
