@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gamingyard7016/leet-code-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/1470-shuffle-the-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [3467-transform-array-by-parity](https://github.com/gamingyard7016/leet-code-questions/tree/master/3467-transform-array-by-parity) |
 ## Counting
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gamingyard7016/leet-code-questions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -295,4 +299,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
