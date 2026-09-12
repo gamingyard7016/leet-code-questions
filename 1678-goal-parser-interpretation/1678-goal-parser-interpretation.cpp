@@ -13,7 +13,7 @@ public:
             }
             else if(command[i] == '(' && command[i+1] == 'a') {
                 s += "al";
-                i+2;
+                i+3;
             }
         }
         return s;
