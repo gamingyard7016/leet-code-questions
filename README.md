@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/gamingyard7016/leet-code-questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/gamingyard7016/leet-code-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gamingyard7016/leet-code-questions/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/gamingyard7016/leet-code-questions/tree/master/0441-arranging-coins) |
@@ -341,4 +342,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
