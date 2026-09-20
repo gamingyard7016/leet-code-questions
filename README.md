@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/1528-shuffle-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/gamingyard7016/leet-code-questions/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
