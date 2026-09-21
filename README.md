@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/1528-shuffle-string) |
+| [1572-matrix-diagonal-sum](https://github.com/gamingyard7016/leet-code-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gamingyard7016/leet-code-questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gamingyard7016/leet-code-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/gamingyard7016/leet-code-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gamingyard7016/leet-code-questions/tree/master/1672-richest-customer-wealth) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/gamingyard7016/leet-code-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
