@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gamingyard7016/leet-code-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gamingyard7016/leet-code-questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gamingyard7016/leet-code-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2942-find-words-containing-character](https://github.com/gamingyard7016/leet-code-questions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/gamingyard7016/leet-code-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gamingyard7016/leet-code-questions/tree/master/1672-richest-customer-wealth) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/gamingyard7016/leet-code-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
 |  |
