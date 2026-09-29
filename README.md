@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gamingyard7016/leet-code-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2942-find-words-containing-character](https://github.com/gamingyard7016/leet-code-questions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3127-make-a-square-with-the-same-color](https://github.com/gamingyard7016/leet-code-questions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gamingyard7016/leet-code-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/gamingyard7016/leet-code-questions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gamingyard7016/leet-code-questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/gamingyard7016/leet-code-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/gamingyard7016/leet-code-questions/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [3127-make-a-square-with-the-same-color](https://github.com/gamingyard7016/leet-code-questions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/gamingyard7016/leet-code-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
 |  |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3127-make-a-square-with-the-same-color](https://github.com/gamingyard7016/leet-code-questions/tree/master/3127-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
