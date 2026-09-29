@@ -8,7 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+class Solution {//change kar ke dale hai
 public:
     ListNode* removeElements(ListNode* head, int val) {
          ListNode* dummy = new ListNode(0);
