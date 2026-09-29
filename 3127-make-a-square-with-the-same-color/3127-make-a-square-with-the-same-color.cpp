@@ -5,7 +5,7 @@ public:
             for(int j=0; j<2; j++){
                 int black = 0;
 
-                if(grid[i][j] == 'B') black++;
+                if(grid[i][j] == 'B') black++;//kguhmjgjytgjhgftuygtu
                 if(grid[i][j+1] == 'B') black++;
                 if(grid[i+1][j] == 'B') black++;
                 if(grid[i+1][j+1] == 'B') black++;
