@@ -4,14 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/gamingyard7016/leet-code-questions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/gamingyard7016/leet-code-questions/tree/main/C++/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/gamingyard7016/leet-code-questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/gamingyard7016/leet-code-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0009-palindrome-number) |
@@ -32,8 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/gamingyard7016/leet-code-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gamingyard7016/leet-code-questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/gamingyard7016/leet-code-questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/gamingyard7016/leet-code-questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/gamingyard7016/leet-code-questions/tree/main/C++/Easy/0203-remove-linked-list-elements/) | Easy |
@@ -41,8 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/gamingyard7016/leet-code-questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/gamingyard7016/leet-code-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/gamingyard7016/leet-code-questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0014-longest-common-prefix) |
@@ -108,8 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/gamingyard7016/leet-code-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/gamingyard7016/leet-code-questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/gamingyard7016/leet-code-questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/gamingyard7016/leet-code-questions/tree/master/0169-majority-element) |
@@ -127,8 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gamingyard7016/leet-code-questions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0059-spiral-matrix-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0074-search-a-2d-matrix) |
@@ -142,8 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3127-make-a-square-with-the-same-color](https://github.com/gamingyard7016/leet-code-questions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/gamingyard7016/leet-code-questions/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/gamingyard7016/leet-code-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gamingyard7016/leet-code-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gamingyard7016/leet-code-questions/tree/master/0016-3sum-closest) |
@@ -167,8 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/gamingyard7016/leet-code-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3794-reverse-string-prefix](https://github.com/gamingyard7016/leet-code-questions/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gamingyard7016/leet-code-questions/tree/master/0035-search-insert-position) |
@@ -186,16 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gamingyard7016/leet-code-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Newton's Method
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0069-sqrtx](https://github.com/gamingyard7016/leet-code-questions/tree/master/0069-sqrtx) |
 ## Ternary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -220,8 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/gamingyard7016/leet-code-questions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/gamingyard7016/leet-code-questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gamingyard7016/leet-code-questions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/gamingyard7016/leet-code-questions/tree/master/0075-sort-colors) |
@@ -239,27 +239,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [3467-transform-array-by-parity](https://github.com/gamingyard7016/leet-code-questions/tree/master/3467-transform-array-by-parity) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/gamingyard7016/leet-code-questions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gamingyard7016/leet-code-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/gamingyard7016/leet-code-questions/tree/master/3467-transform-array-by-parity) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/gamingyard7016/leet-code-questions/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/gamingyard7016/leet-code-questions/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Timsort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0059-spiral-matrix-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/gamingyard7016/leet-code-questions/tree/master/0258-add-digits) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -271,8 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/gamingyard7016/leet-code-questions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/gamingyard7016/leet-code-questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0078-subsets](https://github.com/gamingyard7016/leet-code-questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0268-missing-number) |
@@ -280,128 +280,128 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gamingyard7016/leet-code-questions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/gamingyard7016/leet-code-questions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/gamingyard7016/leet-code-questions/tree/master/0169-majority-element) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/gamingyard7016/leet-code-questions/tree/master/0078-subsets) |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0022-generate-parentheses) |
 ## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/gamingyard7016/leet-code-questions/tree/master/0075-sort-colors) |
 ## Bubble Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0075-sort-colors](https://github.com/gamingyard7016/leet-code-questions/tree/master/0075-sort-colors) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0258-add-digits](https://github.com/gamingyard7016/leet-code-questions/tree/master/0258-add-digits) |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
 ## Treap
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Z Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Knuth–Morris–Pratt Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Boyer–Moore String-Search Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
 ## Nim Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
 ## Impartial Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0292-nim-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/0292-nim-game) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0014-longest-common-prefix) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3127-make-a-square-with-the-same-color](https://github.com/gamingyard7016/leet-code-questions/tree/master/3127-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
