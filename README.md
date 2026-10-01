@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/gamingyard7016/leet-code-questions/tree/master/0038-count-and-say) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0022-generate-parentheses) |
 ## Quicksort
 |  |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3127-make-a-square-with-the-same-color](https://github.com/gamingyard7016/leet-code-questions/tree/master/3127-make-a-square-with-the-same-color) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
