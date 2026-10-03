@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1470-shuffle-the-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/1470-shuffle-the-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/gamingyard7016/leet-code-questions/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/0766-toeplitz-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/gamingyard7016/leet-code-questions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/gamingyard7016/leet-code-questions/tree/master/1572-matrix-diagonal-sum) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gamingyard7016/leet-code-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gamingyard7016/leet-code-questions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Newton's Method
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3467-transform-array-by-parity](https://github.com/gamingyard7016/leet-code-questions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gamingyard7016/leet-code-questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
