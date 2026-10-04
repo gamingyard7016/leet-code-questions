@@ -4,7 +4,7 @@
  *     int val;
  *     ListNode *next;
  *     ListNode(int x) : val(x), next(NULL) {}
- * };
+ * };ui
  */
 class Solution {
 public:
