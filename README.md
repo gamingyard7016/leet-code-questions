@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gamingyard7016/leet-code-questions/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/gamingyard7016/leet-code-questions/tree/main/C++/Easy/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gamingyard7016/leet-code-questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/gamingyard7016/leet-code-questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/gamingyard7016/leet-code-questions/tree/main/C++/Easy/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/gamingyard7016/leet-code-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gamingyard7016/leet-code-questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
