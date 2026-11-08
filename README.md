@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gamingyard7016/leet-code-questions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/gamingyard7016/leet-code-questions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/gamingyard7016/leet-code-questions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/gamingyard7016/leet-code-questions/tree/master/1678-goal-parser-interpretation) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
