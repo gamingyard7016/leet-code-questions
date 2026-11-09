@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/gamingyard7016/leet-code-questions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/gamingyard7016/leet-code-questions/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/gamingyard7016/leet-code-questions/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/gamingyard7016/leet-code-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/gamingyard7016/leet-code-questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
