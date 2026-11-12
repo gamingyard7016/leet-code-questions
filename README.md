@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/0328-odd-even-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/gamingyard7016/leet-code-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gamingyard7016/leet-code-questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -463,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gamingyard7016/leet-code-questions/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
