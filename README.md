@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/gamingyard7016/leet-code-questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/gamingyard7016/leet-code-questions/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/gamingyard7016/leet-code-questions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gamingyard7016/leet-code-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -469,5 +471,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gamingyard7016/leet-code-questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
