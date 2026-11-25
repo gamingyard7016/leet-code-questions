@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/gamingyard7016/leet-code-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/gamingyard7016/leet-code-questions/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/gamingyard7016/leet-code-questions/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/1512-number-of-good-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gamingyard7016/leet-code-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/gamingyard7016/leet-code-questions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/gamingyard7016/leet-code-questions/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/gamingyard7016/leet-code-questions/tree/master/0498-diagonal-traverse) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gamingyard7016/leet-code-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/gamingyard7016/leet-code-questions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/gamingyard7016/leet-code-questions/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gamingyard7016/leet-code-questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/gamingyard7016/leet-code-questions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/gamingyard7016/leet-code-questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/gamingyard7016/leet-code-questions/tree/master/0912-sort-an-array) |
